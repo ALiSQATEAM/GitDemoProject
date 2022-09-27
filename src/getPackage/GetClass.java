@@ -6,6 +6,7 @@ public class GetClass {
 		// TODO Auto-generated method stub
      System.out.print("Git");
      System.out.print("Git");
+     System.out.print("Git3");
 	}
 
 }
