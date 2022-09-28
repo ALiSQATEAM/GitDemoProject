@@ -8,6 +8,7 @@ public class GetClass {
      System.out.print("Git");
      System.out.print("Git3");
      System.out.print("inssert new line");
+     System.out.print("LEAD ADD NEW LINE");
     
 	}
 
